@@ -1,16 +1,7 @@
 # latkuis_011
 
-A new Flutter project.
+![Image](https://github.com/user-attachments/assets/bbac3142-e03e-4cd8-bf1e-b155ef7e1f9e)
 
-## Getting Started
+![Image](https://github.com/user-attachments/assets/cf87d183-cdae-42f4-860d-9f421c8ae9b0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/7e77b7ec-2138-4cdd-b389-4415d6369d5e)
